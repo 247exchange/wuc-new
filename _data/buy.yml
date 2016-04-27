@@ -58,6 +58,12 @@
    countries: de, fr
    logo: bitcoinde.png
    url: https://www.bitcoin.de/
+   
+ - exchange: 247Exchange
+   description: An exchange with diverse payment methods including SWIFT, SEPA bank transfers, credit/debit cards, and money orders
+   countries: de, fr
+   logo: 247exchange.jpg
+   url: https://www.247exchange.com 
 
 ############## United Kingdom ##############  
    
@@ -75,6 +81,12 @@
    logo: quickbt.png
    url: https://quickbt.com/ca/
    getting_started: yes
+   
+ - exchange: 247Exchange
+   description: Buy bitcoin instantly with credit/debit card, Interac Online, local bank transfer, etc.
+   countries: ca
+   logo: 247exchange.jpg
+   url: https://www.247exchange.com    
    
 ############## Asia ##############  
    
@@ -161,6 +173,12 @@
    countries: asia
    logo: coinsth.png
    url:  https://coins.co.th/en/
+   
+ - exchange: 247Exchange
+   description: An exchange with diverse payment methods including SWIFT bank transfers, credit/debit cards, and money orders
+   countries: asia
+   logo: 247exchange.jpg
+   url: https://www.247exchange.com    
 
 ############## Australia ##############
    
@@ -169,6 +187,12 @@
    countries: au
    logo: buyabitcoin.png
    url: https://buyabitcoin.com.au/
+   
+ - exchange: 247Exchange
+   description: An exchange with diverse payment methods including SWIFT bank transfers (AUD, USD), credit/debit cards, and money orders.
+   countries: au
+   logo: 247exchange.jpg
+   url: https://www.247exchange.com      
 
 ############## South America ##############
 
@@ -207,6 +231,12 @@
    countries: sa
    logo: guaranibitcoin.png
    url: https://www.guaranibitcoin.com/  
+   
+   exchange: 247Exchange
+   description: An exchange with diverse payment methods including SWIFT bank transfers, credit/debit cards, and money orders
+   countries: sa
+   logo: 247exchange.jpg
+   url: https://www.247exchange.com   
 
 ############## Brazil ############## 
    
@@ -221,6 +251,13 @@
    countries: br
    logo: mercado.png
    url: https://www.mercadobitcoin.com.br/
+   
+  - exchange: 247Exchange
+   description: An exchange with diverse payment methods including SWIFT bank transfers, credit/debit cards, and money orders
+   countries: br 
+   logo: 247exchange.jpg
+   url: https://www.247exchange.com  
+   getting_started: yes  
    
 ############## France ##############
    
@@ -248,7 +285,14 @@
    description: Buy and <a href="https://www.sellbitcoins.io/">sell bitcoins</a> with Airtel in Kenya, and with Paga or Quickteller in Nigeria. 
    countries: af
    logo: bitpesa.png
-   url: https://www.bitpesa.co/ 
+   url: https://www.bitpesa.co/
+   
+ - exchange: 247Exchange
+   description: An exchange with diverse payment methods including SWIFT bank transfers (ZAR, USD), credit/debit cards, and money orders
+   countries: af 
+   logo: 247exchange.jpg
+   url: https://www.247exchange.com  
+   getting_started: yes   
    
 ############## Mexico ##############    
 
@@ -270,5 +314,5 @@
    description: An exchange with diverse payment methods including SWIFT bank transfers, credit/debit cards, and money orders
    countries: 
    logo: 247exchange.jpg
-   url: http://www.runtogold.com/247exchange  
+   url: https://www.247exchange.com  
    getting_started: yes
