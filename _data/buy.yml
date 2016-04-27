@@ -267,8 +267,9 @@
 ############## Global ##############    
 
  - exchange: 247Exchange
-   description: An exchange with diverse payment methods including SWIFT bank transfers, credit/debit cards, and money orders
-   countries: 
+   description: An exchange with diverse payment methods including credit/debit cards, SWIFT and SEPA bank transfers, express cash transfers, Interac Online (in Canada), etc. Instant delivery. Many currencies supported: USD, EUR, GBP, CAD, AUD, CZK, ZAR and others.
+   countries: ca, ad, af, asia, au, at, be, bg, br, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, mx, nl, nor, pl, pt, ro, sa, sm, sk, si, es, sa, se, ch, gb, sg, uk
+   logo: coinbase
    logo: 247exchange.jpg
-   url: http://www.runtogold.com/247exchange  
+   url: https://www.247exchange.com  
    getting_started: yes
