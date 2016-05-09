@@ -273,7 +273,7 @@
 ############## Global ##############    
 
  - exchange: 247Exchange
-   description: An exchange with diverse payment methods including SWIFT bank transfers, credit/debit cards, and money orders
-   countries: 
+   description: An exchange with diverse payment methods including credit/debit cards, SWIFT, SEPA and local bank transfers, instant money transfers, etc.
+   countries: ca, ad, af, at, au, be, bg, br, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, mx, nl, nor, pl, pt, ro, sa, sm, sk, si, es, se, ch, gb, sg, uk
    logo: 247exchange.jpg
-   url: http://www.runtogold.com/247exchange
+   url: https://www.247exchange.com
