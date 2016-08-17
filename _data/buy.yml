@@ -52,6 +52,12 @@
    url: http://buybitcoinww.co/Wall_of_Coins    
  
 ############## Europe ##############  
+
+ - exchange: 247Exchange
+   description: An exchange with diverse payment methods including SWIFT bank transfers, credit/debit cards, and money orders
+   countries: af, au, ad, at, be, bg, ca, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, sa, se, ch, gb, asia  
+   logo: 247exchange.jpg
+   url: https://www.247exchange.com
    
  - exchange: Bitcoin.de
    description: Bitcoin.de is a Bitcoin exchange based in Germany, with average daily trading volume of 3,000-7,000 BTC. Deposits must be made with SEPA transfer.
